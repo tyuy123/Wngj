@@ -1,4 +1,4 @@
-package com.wngj;
+package com.wngj.bean;
 
 /**
  * Created by NiKOo on 16/11/30.

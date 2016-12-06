@@ -1,4 +1,4 @@
-package com.wngj;
+package com.wngj.activity;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -8,6 +8,8 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
+
+import com.wngj.R;
 
 /**
  * Created by NiKOo on 16/11/30.

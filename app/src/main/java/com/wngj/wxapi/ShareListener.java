@@ -5,7 +5,7 @@ import android.util.Log;
 
 import com.umeng.socialize.UMShareListener;
 import com.umeng.socialize.bean.SHARE_MEDIA;
-import com.wngj.ToastUtils;
+import com.wngj.utils.ToastUtils;
 
 
 /**

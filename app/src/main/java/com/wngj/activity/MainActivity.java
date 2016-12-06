@@ -1,4 +1,4 @@
-package com.wngj;
+package com.wngj.activity;
 
 import android.content.Intent;
 import android.graphics.BitmapFactory;
@@ -16,11 +16,14 @@ import com.umeng.socialize.ShareAction;
 import com.umeng.socialize.UMShareAPI;
 import com.umeng.socialize.bean.SHARE_MEDIA;
 import com.umeng.socialize.media.UMImage;
+import com.wngj.adapter.MyAdapter;
+import com.wngj.bean.MyBean;
+import com.wngj.R;
+import com.wngj.net.RestClient;
 import com.wngj.wxapi.ShareListener;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 import java.util.List;

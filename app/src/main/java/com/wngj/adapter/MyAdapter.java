@@ -1,4 +1,4 @@
-package com.wngj;
+package com.wngj.adapter;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -7,6 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+
+import com.wngj.bean.MyBean;
+import com.wngj.R;
 
 import java.util.ArrayList;
 import java.util.List;
